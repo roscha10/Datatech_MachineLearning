@@ -20,15 +20,16 @@ El modelo se entrena utilizando datos históricos, donde ya sabemos si los usuar
 •	Evaluamos el modelo utilizando varias métricas, incluyendo precisión, recall, f1-score, y AUC (Área Bajo la Curva ROC). Estas métricas nos dicen qué tan bien está funcionando el modelo.
 
 # Resultados y su Significado
-1.	**Precisión (Accuracy)**:
+1.	**Precisión (Accuracy)**:  
 •	La precisión es el porcentaje de predicciones correctas que hizo el modelo. En nuestro caso, obtuvimos una precisión de aproximadamente 82.23%, lo que significa que el modelo predice correctamente si un usuario se inscribirá en el 82.23% de los casos.
-2.	**Curva ROC y AUC:**
+2.	**Curva ROC y AUC:**  
 •	La curva ROC es una gráfica que muestra la capacidad del modelo para distinguir entre clases (inscritos y no inscritos). La AUC (Área Bajo la Curva) nos da una única métrica para evaluar esta capacidad. Nuestro modelo tiene un AUC de 0.86.
 •	Un AUC de 0.86 significa que hay un 86% de probabilidad de que el modelo clasifique correctamente una instancia positiva (un usuario inscrito) más alto que una instancia negativa (un usuario no inscrito). Esto indica un buen rendimiento del modelo.
-3.	**Importancia de Características:**
+3.	**Importancia de Características:**  
 •	Evaluamos cuáles características (por ejemplo, la edad, el número de pantallas vistas) son más importantes para el modelo al tomar decisiones. Esto nos ayuda a entender qué factores influyen más en la inscripción de un usuario.
 
-# Conclusión
+# Conclusión 
+
 El modelo de machine learning que hemos desarrollado y evaluado muestra un buen rendimiento en la tarea de predecir si un usuario se inscribirá en una aplicación financiera. Los resultados obtenidos, con una precisión de 82.23% y un AUC de 0.86, indican que el modelo es eficaz para discriminar entre usuarios que se inscribirán y los que no.
 Esto significa que el modelo puede ser utilizado con confianza para identificar a los usuarios que tienen más probabilidades de inscribirse, lo que puede ayudar a la empresa a dirigir sus esfuerzos de marketing de manera más eficiente. Al comprender mejor qué factores influyen en la inscripción, la empresa puede también optimizar su aplicación y sus estrategias para mejorar la tasa de inscripción.
 En resumen, hemos construido un modelo de clasificación robusto que proporciona predicciones precisas y valiosas, y hemos evaluado su rendimiento utilizando técnicas avanzadas y métricas reconocidas en el campo del machine learning. Este modelo puede ser una herramienta poderosa para mejorar la toma de decisiones y aumentar la efectividad de las estrategias de negocio en el sector financiero.
