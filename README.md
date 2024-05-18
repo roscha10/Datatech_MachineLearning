@@ -8,15 +8,15 @@ El modelo se entrena utilizando datos históricos, donde ya sabemos si los usuar
 # Pasos en el Desarrollo del Modelo
 1.	Recopilación de Datos:      
 •	Reunimos datos históricos de usuarios, incluyendo características relevantes y si se inscribieron o no.   
-2.	Preprocesamiento de Datos:
+2.	Preprocesamiento de Datos:  
 •	Limpiamos y transformamos los datos para hacerlos adecuados para el entrenamiento del modelo. Esto incluye escalar las características numéricas y equilibrar las clases (inscritos y no inscritos) para asegurar que el modelo aprenda de manera equilibrada.
-3.	División del Conjunto de Datos:
+3.	División del Conjunto de Datos:  
 •	Dividimos los datos en conjuntos de entrenamiento y prueba. El conjunto de entrenamiento se usa para enseñar al modelo, mientras que el conjunto de prueba se utiliza para evaluar su rendimiento.
-4.	Entrenamiento del Modelo:
+4.	Entrenamiento del Modelo:  
 •	Utilizamos un algoritmo llamado XGBoost, conocido por su alta precisión y eficiencia. Entrenamos el modelo con los datos de entrenamiento.
-5.	Optimización de Hiperparámetros:
+5.	Optimización de Hiperparámetros:  
 •	Ajustamos los parámetros del modelo para mejorar su rendimiento. Este proceso se llama búsqueda en cuadrícula y nos ayuda a encontrar la mejor configuración del modelo.
-6.	Evaluación del Modelo:
+6.	Evaluación del Modelo:  
 •	Evaluamos el modelo utilizando varias métricas, incluyendo precisión, recall, f1-score, y AUC (Área Bajo la Curva ROC). Estas métricas nos dicen qué tan bien está funcionando el modelo.
 
 # Resultados y su Significado
