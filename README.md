@@ -1,4 +1,5 @@
-![Uploading image.png…]()
+![image](https://github.com/roscha10/Datatech_MachineLearning/assets/130667173/6fb9e404-2161-4e72-8b45-56cad03f3857)
+
 
 # Modelo de Clasificación de Machine Learning
 El proyecto que hemos desarrollado tiene como objetivo predecir si un usuario se inscribirá (enrolled) en una aplicación financiera utilizando un modelo de machine learning de clasificación. A continuación, se presenta una explicación detallada del proceso y los resultados.
