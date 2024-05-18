@@ -6,8 +6,8 @@ Un modelo de clasificación de machine learning es una herramienta que aprende a
 El modelo se entrena utilizando datos históricos, donde ya sabemos si los usuarios se inscribieron o no. Este proceso de aprendizaje le permite al modelo identificar patrones y relaciones en los datos que luego puede usar para hacer predicciones sobre nuevos usuarios.
 
 # Pasos en el Desarrollo del Modelo
-1.	Recopilación de Datos:
-•	Reunimos datos históricos de usuarios, incluyendo características relevantes y si se inscribieron o no.
+1.	Recopilación de Datos:      
+•	Reunimos datos históricos de usuarios, incluyendo características relevantes y si se inscribieron o no.   
 2.	Preprocesamiento de Datos:
 •	Limpiamos y transformamos los datos para hacerlos adecuados para el entrenamiento del modelo. Esto incluye escalar las características numéricas y equilibrar las clases (inscritos y no inscritos) para asegurar que el modelo aprenda de manera equilibrada.
 3.	División del Conjunto de Datos:
