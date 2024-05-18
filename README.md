@@ -1,3 +1,5 @@
+![Uploading image.png…]()
+
 # Modelo de Clasificación de Machine Learning
 El proyecto que hemos desarrollado tiene como objetivo predecir si un usuario se inscribirá (enrolled) en una aplicación financiera utilizando un modelo de machine learning de clasificación. A continuación, se presenta una explicación detallada del proceso y los resultados.
 
