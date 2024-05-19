@@ -1,5 +1,6 @@
 # Modelo de Clasificación de Machine Learning
-![image](https://github.com/roscha10/Datatech_MachineLearning/assets/130667173/6fb9e404-2161-4e72-8b45-56cad03f3857)
+![image](https://github.com/roscha10/Datatech_MachineLearning/assets/130667173/976aa903-8956-426a-9e00-8a4ca1b62c22)
+
 
 
 ## Modelo de Clasificación de Machine Learning
