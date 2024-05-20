@@ -23,6 +23,8 @@ El modelo se entrena utilizando datos históricos, donde ya sabemos si los usuar
 •	Ajustamos los parámetros del modelo para mejorar su rendimiento. Este proceso se llama búsqueda en cuadrícula y nos ayuda a encontrar la mejor configuración del modelo.
 6.	Evaluación del Modelo:  
 •	Evaluamos el modelo utilizando varias métricas, incluyendo precisión, recall, f1-score, y AUC (Área Bajo la Curva ROC). Estas métricas nos dicen qué tan bien está funcionando el modelo.
+7. Guardar el Modelo de Aprendizaje Automático:
+•es importante poder guardar el modelo entrenado para poder reutilizarlo más tarde sin necesidad de reentrenar. utilizaremos dos formas de guardar diferentes, pickle y joblib.
 
 # Resultados y su Significado
 1.	**Precisión (Accuracy)**:  
